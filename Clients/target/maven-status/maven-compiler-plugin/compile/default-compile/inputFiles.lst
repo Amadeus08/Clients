@@ -1,0 +1,12 @@
+C:\JAVAafondo\JDBC\Clients\src\main\java\rc\jdbc\registrojdbc\logica\Cliente.java
+C:\JAVAafondo\JDBC\Clients\src\main\java\rc\jdbc\registrojdbc\RegistroJAP.java
+C:\JAVAafondo\JDBC\Clients\src\main\java\rc\jdbc\registrojdbc\igu\Principal.java
+C:\JAVAafondo\JDBC\Clients\src\main\java\rc\jdbc\registrojdbc\persistencia\ControladoraPersistencia.java
+C:\JAVAafondo\JDBC\Clients\src\main\java\rc\jdbc\registrojdbc\persistencia\ClienteJpaController.java
+C:\JAVAafondo\JDBC\Clients\src\main\java\rc\jdbc\registrojdbc\logica\Controladora.java
+C:\JAVAafondo\JDBC\Clients\src\main\java\rc\jdbc\registrojdbc\persistencia\exceptions\PreexistingEntityException.java
+C:\JAVAafondo\JDBC\Clients\src\main\java\rc\jdbc\registrojdbc\igu\Modificar.java
+C:\JAVAafondo\JDBC\Clients\src\main\java\rc\jdbc\registrojdbc\igu\Consulta.java
+C:\JAVAafondo\JDBC\Clients\src\main\java\rc\jdbc\registrojdbc\igu\AltaClientes.java
+C:\JAVAafondo\JDBC\Clients\src\main\java\rc\jdbc\registrojdbc\persistencia\exceptions\NonexistentEntityException.java
+C:\JAVAafondo\JDBC\Clients\src\main\java\rc\jdbc\registrojdbc\persistencia\exceptions\IllegalOrphanException.java
